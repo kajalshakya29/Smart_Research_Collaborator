@@ -15,7 +15,7 @@ Smart Research Collaborator is a Spring Boot-based backend application integrate
 🛠️ Tech Stack:
 Java (Spring Boot)
 
-HTML, CSS, JavaScript (for the extension UI)
+HTML, CSS, JavaScript (for the extension UI) 
 
 Chrome Extension API
 
