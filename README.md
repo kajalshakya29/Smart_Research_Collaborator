@@ -1,4 +1,4 @@
-📘 Smart Research Collaborator
+## 📘 Smart Research Collaborator
 Smart Research Collaborator is a Spring Boot-based backend application integrated with a Chrome Extension to help users collect, organize, and manage research notes efficiently. It offers a seamless way to take notes from web content, store them locally, and support backend processing via REST APIs.
 
 🔧 Features:
